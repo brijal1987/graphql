@@ -1,0 +1,3 @@
+https://github.com/chenkie/graphql-auth
+https://medium.com/@Amit_Shukla/a-complete-code-for-jwt-authentication-role-based-authorization-in-graphql-using-angular-6-f99720c2144b
+https://www.howtographql.com/angular-apollo/5-authentication/
